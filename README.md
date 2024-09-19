@@ -6,6 +6,7 @@ Ensemble sentiment analyzer using VADER and SVM model trained on 2019 election t
 Visual representation of sentiment analysis results using pie charts and bar graphs.
 Chatbot powered by GPT-3.5, informed by party manifestos from different political parties.
 Interactive Q&A feature to ask questions about promises made by various parties and receive relevant answers.
+
 Tech Stack:
 Machine Learning, Python, Flask, Pandas, Numpy, Support Vector Machine, Scikit-learn, VADER, Tweepy, Jupyter Notebook, OPENAI GPT 3.5, HTML, CSS, JavaScript
 
